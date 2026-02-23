@@ -18,7 +18,7 @@ The dashboard enables stakeholders to identify **high-risk fraud types**, **geog
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * **Power BI Desktop**
 * **DAX (Data Analysis Expressions)**
