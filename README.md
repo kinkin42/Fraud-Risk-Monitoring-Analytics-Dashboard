@@ -1,13 +1,13 @@
-# 💳 Credit Card Fraud Risk Analysis – Power BI Dashboard
+# Credit Card Fraud Risk Analysis – Power BI Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents an **interactive Power BI dashboard** designed to analyze **credit card fraud risk patterns** across transactions.
 The dashboard enables stakeholders to identify **high-risk fraud types**, **geographical hotspots**, **transaction categories**, and **temporal trends**, supporting data-driven fraud prevention and risk mitigation.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze fraudulent transaction patterns by **fraud type**
 * Evaluate **risk-level distribution** (Low, Medium, High, Critical)
@@ -28,21 +28,21 @@ The dashboard enables stakeholders to identify **high-risk fraud types**, **geog
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
-### 🔹 Key Performance Indicators (KPIs)
+### Key Performance Indicators (KPIs)
 
 * **Fraud Rate (%)**
 * **Total Fraudulent Transactions**
 * **Critical Risk Transactions**
 
-### 🔹 Interactive Filters
+### Interactive Filters
 
 * Fraud Type
 * State
 * Merchant Name
 
-### 🔹 Visual Analytics
+### Visual Analytics
 
 * **Fraud Type Analysis** – Transaction count by fraud category
 * **Risk-Level Distribution** – Donut chart showing Low, Medium, High, Critical risk amounts
@@ -52,12 +52,12 @@ The dashboard enables stakeholders to identify **high-risk fraud types**, **geog
 
 ---
 
-## 🖼️ Dashboard Screenshot
+## Dashboard Screenshot
 <img width="1476" height="807" alt="Screenshot 2026-01-23 193547" src="https://github.com/user-attachments/assets/d8971ea0-6bb7-4a11-ad8a-d651611b2c83" />
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 * **Card Not Present (CNP)** fraud is the most frequent fraud type
 * **Critical-risk transactions** account for a significant monetary value
@@ -67,7 +67,7 @@ The dashboard enables stakeholders to identify **high-risk fraud types**, **geog
 
 ---
 
-## 🚀 How to Use
+##  Getting Started
 
 1. Clone this repository:
 
@@ -78,22 +78,7 @@ The dashboard enables stakeholders to identify **high-risk fraud types**, **geog
 3. Refresh the dataset if required
 4. Use slicers to explore fraud insights dynamically
 
----
 
-## 📈 Future Enhancements
-
-* Integration of **real-time transaction data**
-* Machine Learning–based **fraud risk prediction**
-* Drill-through pages for **merchant-level analysis**
-* Automated **alert system** for critical-risk transactions
-
----
-
-## ⭐ If you find this project useful
-
-Don’t forget to **star ⭐ the repository** and share your feedback!
-
----
 
 📄 **License**
 
